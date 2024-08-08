@@ -1,1 +1,1 @@
-# project-proposal-sample
+# BCA Project Proposal Guidelines
