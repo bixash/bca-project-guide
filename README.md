@@ -1,4 +1,5 @@
 # BCA Project Proposal Guidelines
+Here is the link to sample of the [project proposal](https://github.com/bixash/project-proposal-sample/blob/main/proposal-sample.pdf). 
 ## Table of content
 ## 1.	Introduction 
 Introduce about your project with some background.
@@ -42,4 +43,4 @@ References should be in IEEE format.
 •	List of abbreviation, table and figures is optional for proposal.    
 •	Follow the project report guideline for paragraph, font, layout and spacing.   
 
-Here is the link to sample of the [project proposal](https://github.com/bixash/project-proposal-sample/blob/main/proposal-sample.pdf). 
+
