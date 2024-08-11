@@ -1,5 +1,5 @@
 # BCA Project Proposal Guidelines
-Here is the link to sample of the [project proposal](https://github.com/bixash/project-proposal-sample/blob/main/trading-system-proposal.pdf). 
+Here is the link to sample [PDF File](https://github.com/bixash/project-proposal-sample/blob/main/trading-system-proposal.pdf) and [Word File](https://github.com/bixash/project-proposal-sample/blob/main/trading-system-proposal.docx).
 ## Table of content
 ## 1.	Introduction 
 Introduce about your project with some background.
