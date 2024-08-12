@@ -41,7 +41,7 @@ References should be in IEEE format.
 •	Figure captions should start with “1.1”.    
 •	Every page should be numbered at bottom.    
 •	List of abbreviation, table and figures is optional for proposal. 
-•	Page margins should be in inches top 1, bottom 1, left 1.25 and right 1.
+•	Page margins should be in inches top 1, bottom 1, left 1.25 and right 1.    
 •	Follow the project report guideline for paragraph, font, layout and spacing.
 
 
