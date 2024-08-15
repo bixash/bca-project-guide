@@ -5,7 +5,7 @@ Here is the link to sample [PDF File](./bca-project-guide/trading-system-proposa
 
 
 
-# [How to write proposal](./proposal-guide)
+# [How to write proposal](./proposal-guide.md)
 
 
 
