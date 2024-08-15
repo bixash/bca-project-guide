@@ -1,4 +1,6 @@
 # BCA Project Guidelines
+
+<img src="./img/pascal-logo-square.jpeg" alt="logo" width="50">
 This guideline is for BCA Project. 
 
 ## [Project Proposal](./proposal-guide.md)
