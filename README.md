@@ -5,7 +5,7 @@ This guideline is for BCA Project.
 
 Download sample: [PDF](./trading-system-proposal.pdf) and [Word](./trading-system-proposal.docx)
 
-## [Project Report](./proposal-report.md)
+## [Project Report](./report-guide.md)
 
 
 
