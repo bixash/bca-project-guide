@@ -1,14 +1,11 @@
 # BCA Project Guidelines
+This guideline is for BCA Project. 
 
+## [Project Proposal](./proposal-guide.md)
 
-## Proposal
-### [How to write proposal](./proposal-guide.md)
+Download sample: [PDF](./trading-system-proposal.pdf) and [Word](./trading-system-proposal.docx)
 
-Download sample: [PDF File](./trading-system-proposal.pdf) and [Word File](./trading-system-proposal.docx).
-
-
-## Report
-### [How to write report](./proposal-guide.md)
+## [Project Report](./proposal-report.md)
 
 
 
