@@ -1,14 +1,15 @@
-# BCA Project Guidelines
-
-[<img src="./assets/pascal-logo-square.jpeg" alt="logo" width="160"/>](https://pascalcollege.edu.np)  
-
-This guideline is for BCA Project. 
-
-## [Project Proposal](./guides/proposal-guide.md)
-
-Download sample: [PDF](./files/trading-system-proposal.pdf) and [Word](./files/trading-system-proposal.docx)
-
-## [Project Report](./guides/report-guide.md)
 
 
-Made in [Pascal National College](https://pascalcollege.edu.np).
+## Guidelines
+Read these below are the guidelines for:
+- [Project Proposal](./guides/proposal-guide.md)
+- [Project Report](./guides/report-guide.md)
+  
+## Project Syllabus:  
+- [4th semester](https://www.pascalcollege.edu.np/files/64c00eb3e68e1-Project%20I.pdf)   
+- [6th semester](https://www.pascalcollege.edu.np/files/64c01028f20c4-Project%20II.pdf)
+
+## Download Samples:
+- Proposal [(Download)](./files/trading-system-proposal.docx)
+- Report  [(Download)](./files/trading-system-report.docx)
+
