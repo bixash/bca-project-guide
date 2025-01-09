@@ -1,15 +1,59 @@
+# BCA Academic Project Guidelines Repository
 
+This repository consists of the guidelines for the academic projects of the BCA course.
 
 ## Guidelines
-Read these below are the guidelines for:
-- [Project Proposal](./guides/proposal-guide.md)
-- [Project Report](./guides/report-guide.md)
-  
-## Project Syllabus:  
-- [4th semester](https://www.pascalcollege.edu.np/files/64c00eb3e68e1-Project%20I.pdf)   
-- [6th semester](https://www.pascalcollege.edu.np/files/64c01028f20c4-Project%20II.pdf)
 
-## Download Samples:
-- Proposal [(Download)](./files/trading-system-proposal.docx)
-- Report  [(Download)](./files/trading-system-report.docx)
+### Project Proposal
 
+Read these below guidelines for drafting your project proposal:
+
+1. Clearly define the project objectives. Don’t list more than two.
+2. Mention the problem your project going to solve, boil it down in simple two points.
+3. Include the background and significance of the project.
+4. Describe the methodology you plan to use.
+
+### Project Report
+
+Below are the guidelines for compiling your project report:
+
+1. Abstract should always be in one paragraph.
+2. Keywords should be relevant to the project.
+3. Don't put the objectives that you haven't met.
+4. Problem statement should be in two points.
+5. Limitations of the project should be less than scope of the project.
+6. List of abbreviations should be in alphabetical order.
+7. Chapter heading should be in center.
+
+### Project Presentation
+
+Below are the slide guidelines for presentation:
+
+1. Slide 1: Project title and creator's name
+2. Slide 2: Introduction
+3. Slide 3: Problem with existing systems
+4. Slide 4: Solution
+5. Slide 5: High level Designs
+   - Data Flow Diagrams
+   - Database Schema
+   - System Architecture
+   - Methodologies
+6. Slide 6:
+   - For proposal defense (Expected Outcome)
+   - For report defense (Conclusion or Future Recommedation)
+
+## Download Samples
+
+### 4th Semester
+
+- Proposal: [Download](./files/portfolio-tracker-proposal.docx)
+- Report: [Download](./files/stock%20portfolio%20tracker%20-%20report.docx)
+
+### 6th Semester
+
+- Proposal: [Download](./files/trading-system-proposal.docx)
+- Report: [Download](./files/trading-system-report.docx)
+
+### Log Sheet
+
+- Log Sheet: [Download](./files/Log%20Sheet.docx)
