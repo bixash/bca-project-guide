@@ -46,7 +46,7 @@ Below are the slide guidelines for presentation:
 
 ### 4th Semester
 
-- Proposal: [Download](./files/portfolio-tracker-proposal.docx)
+- Proposal: [Download](https://docs.google.com/document/d/1zRyb-Q_64YIVVLD68lRhd-S8toayCq9U/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
 - Report: [Download](./files/stock%20portfolio%20tracker%20-%20report.docx)
 
 ### 6th Semester
