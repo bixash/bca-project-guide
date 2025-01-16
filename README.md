@@ -4,6 +4,13 @@ This repository consists of the guidelines for the academic projects of the BCA 
 
 ## Guidelines
 
+For all BCA project syllabus, [click here.](https://www.pascalcollege.edu.np/syllabus) Before writing document make sure, you know how to use that documentation tool:
+- to do `section breaks` as report requires seperate `page numbering` style for `Certificates` and `Chapters`.
+- to set `heading styles` for Heading 1-5 and generate `table of contents` based on headings
+- to auto generate `list of figures and tables` after adding `captions`
+- to add `citations` and generate `references`
+
+
 ### Project Proposal
 
 Read these below guidelines for drafting your project proposal:
