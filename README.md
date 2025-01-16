@@ -44,16 +44,13 @@ Below are the slide guidelines for presentation:
 
 ## Download Samples
 
-### 4th Semester
-
-- Proposal: [Download](https://docs.google.com/document/d/1zRyb-Q_64YIVVLD68lRhd-S8toayCq9U/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
-- Report: [Download](./files/stock%20portfolio%20tracker%20-%20report.docx)
+The samples provided are for the `6th semester`. To use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
 
 ### 6th Semester
 
-- Proposal: [Download](./files/trading-system-proposal.docx)
-- Report: [Download](./files/trading-system-report.docx)
+- Proposal: [Download](https://docs.google.com/document/d/11R1Mw0eKHtVlvyiXyjDblZzbr2sKgoej/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
+- Report: [Download](https://docs.google.com/document/d/15ezNcQX7z7a3PwGc-iHLWC5pWMAXczzV/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
 
 ### Log Sheet
 
-- Log Sheet: [Download](./files/Log%20Sheet.docx)
+- Log Sheet: [Download](https://docs.google.com/document/d/1p-MNnOR4a5XswOZuZhAnhrWnSUh_zQoX/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
