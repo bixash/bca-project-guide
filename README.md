@@ -5,7 +5,7 @@ This repository consists of the guidelines for the academic projects of the BCA 
 - to set `heading styles` for Heading 1-5 and generate `table of contents` based on headings
 - to auto generate `list of figures and tables` after adding `captions`
 - to add `citations` and generate `references`
-Note: For presentations guide or other extra tips, [click here.](/files/extra-guides.md)
+Note: For presentations guide or other extra tips, [click here.](/guides/extra-guides.md)
 
 ## Guidelines
 
