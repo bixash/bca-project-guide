@@ -1,15 +1,13 @@
 # BCA Academic Project Guidelines Repository
 
-This repository consists of the guidelines for the academic projects of the BCA course.
-
-## Guidelines
-
-For all BCA project syllabus, [click here.](https://www.pascalcollege.edu.np/syllabus) Before writing document make sure, you know how to use that documentation tool:
+This repository consists of the guidelines for the academic projects of the BCA course. For all BCA project syllabus, [click here.](https://www.pascalcollege.edu.np/syllabus) Before writing document learn to do following things:
 - to do `section breaks` as report requires seperate `page numbering` style for `Certificates` and `Chapters`.
 - to set `heading styles` for Heading 1-5 and generate `table of contents` based on headings
 - to auto generate `list of figures and tables` after adding `captions`
 - to add `citations` and generate `references`
 
+
+## Guidelines
 
 ### Project Proposal
 
@@ -31,23 +29,6 @@ Below are the guidelines for compiling your project report:
 5. Limitations of the project should be less than scope of the project.
 6. List of abbreviations should be in alphabetical order.
 7. Chapter heading should be in center.
-
-### Project Presentation
-
-Below are the slide guidelines for presentation:
-
-1. Slide 1: Project title and creator's name
-2. Slide 2: Introduction
-3. Slide 3: Problem with existing systems
-4. Slide 4: Solution
-5. Slide 5: High level Designs
-   - Data Flow Diagrams
-   - Database Schema
-   - System Architecture
-   - Methodologies
-6. Slide 6:
-   - For proposal defense (Expected Outcome)
-   - For report defense (Conclusion or Future Recommedation)
 
 ## Download Samples
 
