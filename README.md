@@ -32,7 +32,7 @@ Below are the guidelines for compiling your project report:
 
 ## Download Samples
 
-The samples provided are for the `6th semester`. To use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
+The samples provided are for the `6th semester`. If you want to use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
 
 ### 6th Semester
 
