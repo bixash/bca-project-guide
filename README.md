@@ -30,7 +30,12 @@ Below are the guidelines for compiling your project report:
 6. List of abbreviations should be in alphabetical order.
 7. Chapter heading should be in center.
 
-## Download Samples
+### My Projects
+
+ - 4th semester: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
+ - 6th semester: [Stock Trading System](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
+   
+## Download reference for reports
 
 The samples provided are for the `6th semester`. If you want to use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
 
