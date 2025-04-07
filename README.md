@@ -30,7 +30,7 @@ Below are the guidelines for compiling your project report:
 6. List of abbreviations should be in alphabetical order.
 7. Chapter heading should be in center.
 
-### My Projects
+### Projects
 
  - 4th semester: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
  - 6th semester: [Stock Trading System](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
