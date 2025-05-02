@@ -24,7 +24,7 @@ After defending projects for many times. I got to know that to never make mistak
 
 Read these below guidelines for drafting your project proposal:
 
-1. Clearly define the project `objective`s. Don’t list more than two.
+1. Clearly define the project `objectives`. Don’t list more than two.
 2. Mention the `problem` your project going to solve, boil it down in simple two points.
 3. Include the `background and significance` of the project.
 4. Describe the `methodology` you plan to use.
