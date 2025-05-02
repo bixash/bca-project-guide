@@ -12,7 +12,7 @@ Before writing document I recommend you to learn following things in `MS word`:
 Note: For presentations guide or other extra tips, [click here.](/guides/extra-guides.md)
 
 ## Guidelines
-After defending project for third times. I got to know that to never make mistakes in formatting, specially in following pages:
+After defending projects for many times. I got to know that to never make mistakes in **formatting**, specially in following pages:
 - Abstract and Keywords
 - Table of Content
 - Objectives
