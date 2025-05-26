@@ -47,12 +47,12 @@ The samples provided are for the `6th semester`. If you want to use them for the
 
 ### Sample reports
 
-- Proposal: [Preview](https://docs.google.com/document/d/11R1Mw0eKHtVlvyiXyjDblZzbr2sKgoej/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
-- Project Report: [Preview](https://docs.google.com/document/d/15ezNcQX7z7a3PwGc-iHLWC5pWMAXczzV/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
+- Proposal: [Download](https://drive.google.com/file/d/1N548-RDV4x_EPwLuuxTNCWnHghPYyuan/view)
+- Project Report: [Download](https://drive.google.com/file/d/14PEV2YPGFWYHGniMhogYqO2Vfd8UwRyz/view)
 
 ### Log Sheet
 
-- Log Sheet: [Download](https://docs.google.com/document/d/1p-MNnOR4a5XswOZuZhAnhrWnSUh_zQoX/edit?usp=drive_link&ouid=111512440739879001302&rtpof=true&sd=true)
+- Log Sheet: [Download](https://docs.google.com/document/d/1p-MNnOR4a5XswOZuZhAnhrWnSUh_zQoX)
   
 ### My Projects
 
