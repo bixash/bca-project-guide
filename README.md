@@ -1,6 +1,6 @@
 # BCA Academic Project Guidelines Repository
 
-This repository consists of the guidelines for the academic projects of the BCA course. I have complied this guidelines so that you can avoid the mistakes that I have done. Checkout the [BCA project syllabus](https://www.pascalcollege.edu.np/syllabus)  before writing document. The syllabus actually doesn't have any detailed instructions or standards but still check it out.
+This repository consists of the guidelines for the academic projects of the BCA course. I have complied this guidelines so that you can avoid the mistakes that I have done. Checkout the [BCA project syllabus](https://www.pascalcollege.edu.np/syllabus)  before starting the document. The syllabus actually doesn't have any detailed instructions or standards but still check it out.
 
 Before writing document I recommend you to learn following things in `MS word`:
 - to do `section breaks` as report requires seperate `page numbering` style for `Certificates` and `Chapters`. [How to insert section break](https://support.microsoft.com/en-us/office/insert-a-section-break-eef20fd8-e38c-4ba6-a027-e503bdf8375c)
