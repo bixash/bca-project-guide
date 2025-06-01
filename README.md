@@ -21,24 +21,25 @@ After defending projects for many times. I got to know that to never make mistak
 
 ### Project Proposal
 
-Read these below guidelines for drafting your project proposal:
+Below are guidelines for drafting your project proposal:
 
-1. Clearly define the project `objectives`. Don’t list more than two.
-2. Mention the `problem` your project going to solve, boil it down in simple two points.
-3. Include the `background and significance` of the project.
-4. Describe the `methodology` you plan to use.
+- Clearly define the project `objectives`. Don’t list more than two.
+- Mention the `problem` your project going to solve, boil it down in simple two points.
+- Include the `background and significance` of the project.
+- Describe the `methodology` you plan to use.
 
 ### Project Report
 
 Below are the guidelines for compiling your project report:
 
-7. `List of abbreviations` should be in alphabetical order.
-1. `Abstract` should always be in one paragraph.
-2. `Keywords` in abstract should be **bold** and *italic* and write keywords relevant to the project.
-4. `Objectives`that you haven't met don't put on report.
-6. `Limitations` of the project should be less than scope of the project.
-5. `Problem statement` should be in two points.
-8. `Chapter heading` should be in center.
+- `List of abbreviations` should be in alphabetical order.
+- `Abstract` should always be in one paragraph and don't use first person pronouns in it.
+- `Keywords` in abstract should be **bold** and *italic* and write keywords relevant to the project.
+   ![Keywords Format](https://github.com/user-attachments/assets/5b5e9e2d-12f4-42af-bc9b-ee7e4614b72a)
+- `Objectives`that you haven't met, don't put them.
+- `Limitations` of the project should be less than scope of the project.
+- `Problem statement` should be in two points.
+- `Chapter heading` should be in center.
    
 ## Download reference for reports
 
