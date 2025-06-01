@@ -1,7 +1,6 @@
 # BCA Academic Project Guidelines Repository
 
-This repository consists of the guidelines for the academic projects of the BCA course. I have complied this guidelines so that you can avoid the mistakes that I have done. Share this with your other BCA friends as well. [BCA project and internship syllabus](https://www.pascalcollege.edu.np/syllabus)   
-
+This repository consists of the guidelines for the academic projects of the BCA course. I have complied this guidelines so that you can avoid the mistakes that I have done. Checkout the [BCA project syllabus](https://www.pascalcollege.edu.np/syllabus)  before writing document. The syllabus actually doesn't have any detailed instructions or standards but still check it out.
 
 Before writing document I recommend you to learn following things in `MS word`:
 - to do `section breaks` as report requires seperate `page numbering` style for `Certificates` and `Chapters`. [How to insert section break](https://support.microsoft.com/en-us/office/insert-a-section-break-eef20fd8-e38c-4ba6-a027-e503bdf8375c)
@@ -54,7 +53,7 @@ The samples provided are for the `6th semester`. If you want to use them for the
 
 - Log Sheet: [Download](https://docs.google.com/document/d/1p-MNnOR4a5XswOZuZhAnhrWnSUh_zQoX)
   
-### My Projects
+### Here are some of my academic projects
 
  - 4th semester: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
  - 6th semester: [Stock Trading System](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
