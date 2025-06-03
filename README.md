@@ -43,16 +43,7 @@ Below are the guidelines for compiling your project report:
    
 ## Download reference for reports
 
-The samples provided are for the `6th semester`. If you want to use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
-
-### Sample reports
-
-- Proposal: [Download](https://drive.google.com/file/d/1N548-RDV4x_EPwLuuxTNCWnHghPYyuan/view)
-- Project Report: [Download](https://drive.google.com/file/d/14PEV2YPGFWYHGniMhogYqO2Vfd8UwRyz/view)
-
-### Log Sheet
-
-- Log Sheet: [Download](https://docs.google.com/document/d/1p-MNnOR4a5XswOZuZhAnhrWnSUh_zQoX)
+The samples provided are for the `6th semester`. If you want to use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to [download these samples](https://drive.google.com/drive/folders/1STqPt6bixwqrs8rgrtSpPK3jSJBubOh_?usp=sharing), make copy and edit them in `MS Word` rather than `Google Docs`.
   
 ### Here are some of my academic projects
 
