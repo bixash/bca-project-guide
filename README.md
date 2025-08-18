@@ -52,7 +52,7 @@ For better documentation, I recommend to download these samples, make copy and e
    - Documentation: [Proposal and Report](https://drive.google.com/drive/folders/1uy6erjttxfsUb01zlM1oss65MlLw_9em?usp=sharing)
 
 ### 7th semester: 
-   - Documentation: [Software Developer - Intern Report](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
+   - Documentation: [Software Developer - Intern Report](https://drive.google.com/drive/folders/1rMaIQYfuOKgyRrMJDCOBGvvsCkcaiB9E?usp=sharing)
      
 ### Other resources:
    - [Log sheet](https://drive.google.com/drive/folders/1YAEWWv6IXuiaJ3BaRKM-IDm4ZeB48fS7?usp=sharing)
