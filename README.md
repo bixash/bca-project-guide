@@ -41,11 +41,20 @@ Below are the guidelines for compiling your project report:
 - `Problem statement` should be in two points.
 - `Chapter heading` should be in center.
    
-## Download reference for reports
+## Download reference for proposals and reports
+For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
+### 4th semester: 
+   - Source code: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
+   - Documentation: [Proposal and Report](https://drive.google.com/drive/folders/1Cs7u3BoKsR9aTc4P6Qo59-RG7hgKQoXQ?usp=sharing)
+      
+### 6th semester: 
+   - Source code: [Stock Trading System](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
+   - Documentation: [Proposal and Report](https://drive.google.com/drive/folders/1uy6erjttxfsUb01zlM1oss65MlLw_9em?usp=sharing)
 
-The samples provided are for the `6th semester`. If you want to use them for the `4th semester`, simply remove section `3.3 Algorithm Details` from `Chapter 3: System Analysis and Design`. For better documentation, I recommend to [download these samples](https://drive.google.com/drive/folders/1STqPt6bixwqrs8rgrtSpPK3jSJBubOh_?usp=sharing), make copy and edit them in `MS Word` rather than `Google Docs`.
-  
-### Here are some of my academic projects
+### 7th semester: 
+   - Documentation: [Software Developer - Intern Report](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
+     
+### Other resources:
+   - [Log sheet](https://drive.google.com/drive/folders/1YAEWWv6IXuiaJ3BaRKM-IDm4ZeB48fS7?usp=sharing)
+     
 
- - 4th semester: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
- - 6th semester: [Stock Trading System](https://github.com/bixash/Stock-Trading-System?tab=readme-ov-file#stock-trading-system-implementing-aot)
