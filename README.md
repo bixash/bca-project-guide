@@ -33,7 +33,7 @@ Below are the guidelines for important sections of project report:
 - `Problem statement` should be in two points.
 - `Chapter heading` should be in center.
 
-## Download reference for proposals and reports
+## Download proposal and report samples
 For better documentation, I recommend to download these samples, make copy and edit them in `MS Word` rather than `Google Docs`.
 ### 4th semester: 
    - Source code: [Stock Portfolio Tracker](https://github.com/bixash/NEPSE-Stock-Portfolio-Tracker?tab=readme-ov-file#nepse-stock-portfolio-tracker)
