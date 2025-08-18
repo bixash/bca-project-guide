@@ -5,7 +5,9 @@ This repository consists of the guidelines for the academic projects of the BCA 
 - For presentation tips, read the [slide guidelines](/guides/extra-guides.md).
 
 ## Guidelines
-Make sure you know how to do the following things in `MS word`:
+
+### Prerequisites
+Before proceeding, ensure you know how to do the following things in `MS word`:
 - to do `section breaks` as report requires seperate `page numbering` style for `Certificates` and `Chapters`.
 - to set `heading styles` for Heading 1-5 and generate `table of contents` based on headings
 - to auto generate `list of figures and tables` after adding `captions`
