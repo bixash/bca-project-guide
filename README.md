@@ -1,6 +1,8 @@
 # BCA Academic Project Guidelines Repository
 
-This repository consists of the guidelines for the academic projects of the BCA course. Checkout the official [BCA project syllabus](https://www.pascalcollege.edu.np/syllabus) and read all the documentation **formatting** instructions. For presentations guide or other extra tips, [click here.](/guides/extra-guides.md)
+This repository consists of the guidelines for the academic projects of the BCA course. 
+- For project syllabus and documentation formatting instructions visit [BCA project syllabus](https://www.pascalcollege.edu.np/syllabus).
+- For presentation tips, read the [slide guidelines](/guides/extra-guides.md).
 
 ## Guidelines
 Make sure you know how to do the following things in `MS word`:
